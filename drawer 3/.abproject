@@ -1,0 +1,45 @@
+{
+  "ProjectName": "drawer 3",
+  "ProjectGuid": "14bc2ed5-7991-49f3-9895-024dc8407acc",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.drawer3",
+  "DisplayName": "drawer 3",
+  "Author": "",
+  "Description": "drawer 3",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{53b4c8ab-4739-4aa9-bda4-842c1f023101}",
+  "WP8ProductID": "{36ff6b54-83e4-4322-a584-9bdfd879785e}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.drawer3",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
